@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My *main* goal in joining GitHub and learning programming is to build (and assemble a team to build) software that will help small and medium sized presses. I've spent my whole career in publishing, and know there is so much more we could be doing if we only had the technology available. So far, I am learning **Python** and **C**. 
